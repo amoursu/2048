@@ -4,6 +4,9 @@
     <string name="app_name">2048</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="Score">Score</string>
+    <string name="Score">Score:</string>
+    <string name="bestscore">best score:</string>
+    <string name="newgame">restart</string>
+    <string name="appinfo">by xiaoZ 2014.12</string>
 
 </resources>
